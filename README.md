@@ -69,8 +69,8 @@
 - 克隆
 
 ```bash
-$ 
-$ 
+$ git clone https://github.com/HengY1Sky/Golang-Gate-Way.git
+$ cd Golang-Gate-Way
 ```
 
 - 后端
